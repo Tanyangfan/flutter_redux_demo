@@ -5,6 +5,7 @@ A demo user redux to build Flutter application.
 ## Libraries
 
 This project use these libraries.
+
 [redux.dart](https://github.com/johnpryan/redux.dart).
 
 [flutter_redux](https://github.com/brianegan/flutter_redux).
